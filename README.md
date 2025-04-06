@@ -10,6 +10,6 @@ El operador de telecomunicaciones Interconnect busca desarrollar un modelo predi
 
 ## Requerimientos
 
-Revisa las librerías necesarias para este proyecto : pandas, numpu, matplotlib, seaborn, skelarn, LGBMClassifier, CatBosstClassifier
+librerías necesarias para este proyecto : pandas, numpu, matplotlib, seaborn, skelarn, LGBMClassifier, CatBosstClassifier
 
 
