@@ -1,5 +1,4 @@
-# modelo-de-predicci-n-de-abandono-de-clientes
-analisis y modelo predictivo de abandono de clientes de la empresa Interconnect
+# analisis y modelo predictivo de abandono de clientes de la empresa Interconnect
 
 # Pronóstico de abandono de los clientes en **Interconnect**
 El operador de telecomunicaciones Interconnect busca desarrollar un modelo predictivo para anticipar la tasa de churn (cancelación de servicios) entre su base de clientes. El objetivo principal es identificar de manera proactiva a los usuarios con alta probabilidad de baja, permitiendo al área de Marketing ofrecerles intervenciones personalizadas, como códigos promocionales o ajustes en sus planes, para mejorar su retención.
